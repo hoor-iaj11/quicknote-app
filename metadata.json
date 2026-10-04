@@ -1,0 +1,6 @@
+{
+  "name": "QuickNotes - Fast & Focused Note Taking",
+  "description": "A modern, lightning-fast note-taking app designed for clarity, seamless capture, and effortless organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
